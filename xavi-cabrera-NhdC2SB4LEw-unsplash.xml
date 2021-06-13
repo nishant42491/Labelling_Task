@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>xavi-cabrera-NhdC2SB4LEw-unsplash.jpg</filename>
+	<path>D:\Labeling Task\Images\xavi-cabrera-NhdC2SB4LEw-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3437</width>
+		<height>5155</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymin>197</ymin>
+			<xmax>2653</xmax>
+			<ymax>2097</ymax>
+		</bndbox>
+	</object>
+</annotation>

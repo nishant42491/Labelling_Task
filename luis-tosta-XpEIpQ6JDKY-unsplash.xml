@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>luis-tosta-XpEIpQ6JDKY-unsplash.jpg</filename>
+	<path>D:\Labeling Task\Images\luis-tosta-XpEIpQ6JDKY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1132</xmin>
+			<ymin>138</ymin>
+			<xmax>2232</xmax>
+			<ymax>2418</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>andy-hyd-G9qBP3eHPuc-unsplash.jpg</filename>
+	<path>D:\Labeling Task\Images\andy-hyd-G9qBP3eHPuc-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>5184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1045</xmin>
+			<ymin>2106</ymin>
+			<xmax>2186</xmax>
+			<ymax>3230</ymax>
+		</bndbox>
+	</object>
+</annotation>

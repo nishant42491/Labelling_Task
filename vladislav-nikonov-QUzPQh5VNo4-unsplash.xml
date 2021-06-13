@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>vladislav-nikonov-QUzPQh5VNo4-unsplash.jpg</filename>
+	<path>D:\Labeling Task\Images\vladislav-nikonov-QUzPQh5VNo4-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3307</width>
+		<height>4134</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1030</xmin>
+			<ymin>492</ymin>
+			<xmax>2476</xmax>
+			<ymax>3224</ymax>
+		</bndbox>
+	</object>
+</annotation>

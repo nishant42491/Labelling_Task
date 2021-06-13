@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>kyle-tran-ERB9xGa4bhY-unsplash.jpg</filename>
+	<path>D:\Labeling Task\Images\kyle-tran-ERB9xGa4bhY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3587</width>
+		<height>5380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>1222</ymin>
+			<xmax>2964</xmax>
+			<ymax>4116</ymax>
+		</bndbox>
+	</object>
+</annotation>

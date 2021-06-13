@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>diz-play-PIrOQrqewLE-unsplash.jpg</filename>
+	<path>D:\Labeling Task\Images\diz-play-PIrOQrqewLE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4898</width>
+		<height>3265</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3613</xmin>
+			<ymin>413</ymin>
+			<xmax>4530</xmax>
+			<ymax>1998</ymax>
+		</bndbox>
+	</object>
+</annotation>

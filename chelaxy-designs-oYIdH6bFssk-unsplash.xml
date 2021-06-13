@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>chelaxy-designs-oYIdH6bFssk-unsplash.jpg</filename>
+	<path>D:\Labeling Task\Images\chelaxy-designs-oYIdH6bFssk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4288</width>
+		<height>2848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>672</xmin>
+			<ymin>78</ymin>
+			<xmax>2094</xmax>
+			<ymax>2287</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>daniele-franchi-GbAEJUJKJ88-unsplash.jpg</filename>
+	<path>D:\Labeling Task\Images\daniele-franchi-GbAEJUJKJ88-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7193</width>
+		<height>3600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>2370</xmax>
+			<ymax>3545</ymax>
+		</bndbox>
+	</object>
+</annotation>
